@@ -2,3 +2,7 @@ Dia 24/2/2022
 
 Novamente tentando atualizar as configurações do PC e 
 subir as edições para o GITHUB. 
+
+- Depois de cansativas e demoradas tentativas, eis 
+que encontro uma solução num comentário de uma
+DEV aqui mesmo no DIO. 
